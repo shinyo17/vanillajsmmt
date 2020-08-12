@@ -77,12 +77,14 @@ input:focus {outline:none;}
 
 ul{
     list-style: none;
-    font-size: 30pt;
+    font-size: 20pt;
+    color:black;
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
 }
 li {
     color:black;
     font-style:italic;
-    font-size: 30pt;
+    font-size: 20pt;
     text-align: center;
     font-family: 'InkLipquid';
     text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
